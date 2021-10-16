@@ -242,6 +242,20 @@ let questions=[
         ]
 
     },
+      {
+        numb: 20,
+        question: "'.INI' extension refers usually to what kind of file?",
+        answer: "System file", 
+       options: [
+            "System file",
+            "Hypertext related file",
+            "Image Color Matching Profile file",
+            "Image file"
+
+        ]
+
+    },
+
    
 
 
